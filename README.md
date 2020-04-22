@@ -1,8 +1,11 @@
 # SQL-Employee-Management
 
-Design the following database schema containing three tables:
+Procedure for using the database should be to first use schema.sql to set up database.
+Then use seed.sql to set up basic info in database.
+Last in the hr_script.js file, ensure that the correct user and password is set up for the local database connections.
 
-![Database Schema](Assets/schema.png)
+
+Design the following database schema containing three tables:
 
 * **department**:
 
