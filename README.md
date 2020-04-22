@@ -4,6 +4,7 @@ Procedure for using the database should be to first use schema.sql to set up dat
 Then use seed.sql to set up basic info in database.
 Last in the hr_script.js file, ensure that the correct user and password is set up for the local database connections.
 
+Then the script can be started with npm start.
 
 Design the following database schema containing three tables:
 
